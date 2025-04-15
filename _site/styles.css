@@ -1,1 +1,38 @@
+/* Fonte principal: Helvetica */
+body {
+  font-family: "Helvetica", sans-serif;
+  color: #154734; /* UVM Green para texto base */
+}
+
+/* Links em verde escuro */
+a {
+  color: #154734;
+}
+a:hover {
+  color: #0e2f25;
+}
+
+/* Cabeçalhos em UVM Green */
+h1, h2, h3, h4, h5 {
+  color: #154734;
+}
+
+/* Navbar */
+.navbar {
+  background-color: #154734 !important;
+}
+.navbar a, .navbar-brand {
+  color: white !important;
+}
+.navbar a:hover {
+  color: green !important; /* Dourado */
+}
+
+/* Rodapé (se tiver) */
+footer {
+  background-color: #154734;
+  color: white;
+  padding: 1em;
+  text-align: center;
+}
 /* css styles */

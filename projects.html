@@ -143,15 +143,14 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#completed-projects" id="toc-completed-projects" class="nav-link active" data-scroll-target="#completed-projects">✅ Completed Projects</a>
   <ul class="collapse">
-  <li><a href="#calfsim-milk-feeding-simulator" id="toc-calfsim-milk-feeding-simulator" class="nav-link" data-scroll-target="#calfsim-milk-feeding-simulator">CalfSim: Milk Feeding Simulator</a></li>
   <li><a href="#dairyprint-sustainability-systems-modeling" id="toc-dairyprint-sustainability-systems-modeling" class="nav-link" data-scroll-target="#dairyprint-sustainability-systems-modeling">DairyPrint: Sustainability &amp; Systems Modeling</a></li>
-  <li><a href="#dairybrain-predictive-decision-tools" id="toc-dairybrain-predictive-decision-tools" class="nav-link" data-scroll-target="#dairybrain-predictive-decision-tools">DairyBrain &amp; Predictive Decision Tools</a></li>
+  <li><a href="#calfsim-milk-feeding-simulator" id="toc-calfsim-milk-feeding-simulator" class="nav-link" data-scroll-target="#calfsim-milk-feeding-simulator">CalfSim: Milk Feeding Simulator</a></li>
+  <li><a href="#dairybrain-predictive-decision-support-tools" id="toc-dairybrain-predictive-decision-support-tools" class="nav-link" data-scroll-target="#dairybrain-predictive-decision-support-tools">DairyBrain: Predictive Decision Support Tools</a></li>
   </ul></li>
   <li><a href="#ongoing-projects" id="toc-ongoing-projects" class="nav-link" data-scroll-target="#ongoing-projects">🚧 Ongoing Projects</a>
   <ul class="collapse">
-  <li><a href="#calftools-r-package" id="toc-calftools-r-package" class="nav-link" data-scroll-target="#calftools-r-package">CalfTools (R Package)</a></li>
-  <li><a href="#cotricalc-system-dairy-cost-estimation-tool" id="toc-cotricalc-system-dairy-cost-estimation-tool" class="nav-link" data-scroll-target="#cotricalc-system-dairy-cost-estimation-tool">Cotricalc System: Dairy Cost Estimation Tool</a></li>
-  <li><a href="#behavioral-monitoring-anomaly-detection" id="toc-behavioral-monitoring-anomaly-detection" class="nav-link" data-scroll-target="#behavioral-monitoring-anomaly-detection">Behavioral Monitoring &amp; Anomaly Detection</a></li>
+  <li><a href="#cotricalc-system-dairy-cost-estimation-system" id="toc-cotricalc-system-dairy-cost-estimation-system" class="nav-link" data-scroll-target="#cotricalc-system-dairy-cost-estimation-system">Cotricalc System: Dairy Cost Estimation System</a></li>
+  <li><a href="#behavioral-monitoring-anomaly-detection-system-name-tbd" id="toc-behavioral-monitoring-anomaly-detection-system-name-tbd" class="nav-link" data-scroll-target="#behavioral-monitoring-anomaly-detection-system-name-tbd">Behavioral Monitoring &amp; Anomaly Detection System <em>(Name TBD)</em></a></li>
   </ul></li>
   </ul>
 </nav>
@@ -180,39 +179,77 @@ ul.task-list li input[type="checkbox"] {
 
 <section id="completed-projects" class="level2">
 <h2 class="anchored" data-anchor-id="completed-projects">✅ Completed Projects</h2>
-<section id="calfsim-milk-feeding-simulator" class="level3">
-<h3 class="anchored" data-anchor-id="calfsim-milk-feeding-simulator">CalfSim: Milk Feeding Simulator</h3>
-<p>A web-based simulation tool that allows users to design and evaluate customized milk feeding plans for dairy calves. Developed in <strong>R + Shiny</strong> and based on <strong>NASEM (2021)</strong> nutrient requirements, CalfSim enables dynamic modeling of growth, cost per kg of gain, and feeding strategies under different scenarios.</p>
-<p>🔗 <a href="https://tadeuedersilva.shinyapps.io/calfsim/">Try CalfSim</a></p>
-<hr>
-</section>
 <section id="dairyprint-sustainability-systems-modeling" class="level3">
 <h3 class="anchored" data-anchor-id="dairyprint-sustainability-systems-modeling">DairyPrint: Sustainability &amp; Systems Modeling</h3>
-<p>A modeling tool developed to evaluate dairy farm management strategies with focus on <strong>greenhouse gas emissions</strong>, <strong>nutrient excretion</strong>, and overall sustainability. Contributed to the integration of biological processes across the system and development of custom outputs for decision support.</p>
-<p>🔗 <a href="https://dairymgt.cals.wisc.edu/tools.php#Environment">More resources and tools</a></p>
+<p><strong>Description:</strong><br>
+A modeling tool developed to evaluate dairy farm management strategies, with a focus on <strong>greenhouse gas emissions</strong>, <strong>nutrient excretion</strong>, and overall sustainability. DairyPrint integrates key biological processes across the system and delivers tailored outputs to support decision-making on commercial dairy farms.</p>
+<p><strong>Objective:</strong><br>
+To support farmers, advisors, and researchers in exploring how different management strategies affect productivity and environmental outcomes in dairy systems.</p>
+<p><strong>Outcomes:</strong><br>
+- ✅ An interactive online tool for scenario simulation<br>
+- ✅ A peer-reviewed publication describing model structure, functionality, and use cases<br>
+- ✅ Additional resources including abstracts, scientific articles, and videos explaining how the model works</p>
+<p>🔗 <a href="https://dairymgt.cals.wisc.edu/tools.php#Environment">Online Model and Resources</a><br>
+📄 <a href="https://www.sciencedirect.com/science/article/pii/S002203022401049X">Journal Article (JDS, 2024)</a></p>
 <hr>
 </section>
-<section id="dairybrain-predictive-decision-tools" class="level3">
-<h3 class="anchored" data-anchor-id="dairybrain-predictive-decision-tools">DairyBrain &amp; Predictive Decision Tools</h3>
-<p>Worked with the <strong>DairyBrain</strong> team at UW–Madison on building real-time decision support tools. Focused on: - Data engineering for sensor and management data streams - Predictive models for milk production, feed intake, and economic outcomes - Visualization and dashboards for use at the farm level</p>
+<section id="calfsim-milk-feeding-simulator" class="level3">
+<h3 class="anchored" data-anchor-id="calfsim-milk-feeding-simulator">CalfSim: Milk Feeding Simulator</h3>
+<p><strong>Description:</strong><br>
+CalfSim is a web-based simulation tool designed to help users create and evaluate customized milk feeding plans for dairy calves. Developed in <strong>R + Shiny</strong> and based on the nutrient requirements from <strong>NASEM (2021)</strong>, the tool models body weight gain, cost per kg of gain, and feeding strategies under various user-defined scenarios.</p>
+<p><strong>Objective:</strong><br>
+To support calf nutrition planning by enabling producers, consultants, and researchers to explore and compare the biological and economic outcomes of different liquid feeding strategies over time.</p>
+<p><strong>Outcomes:</strong><br>
+- ✅ An interactive tool to design milk plans for preweaned calves<br>
+- ✅ Submitted manuscript to the <em>Journal of Dairy Science</em> describing methodology, structure, and applications<br>
+- ✅ Complementary resources planned for training and on-farm application</p>
+<p>🔗 <a href="https://tadeuedersilva.shinyapps.io/calfsim/">Try CalfSim</a> 📄 Manuscript submitted to <em>Journal of Dairy Science</em> (under review)</p>
+<hr>
+</section>
+<section id="dairybrain-predictive-decision-support-tools" class="level3">
+<h3 class="anchored" data-anchor-id="dairybrain-predictive-decision-support-tools">DairyBrain: Predictive Decision Support Tools</h3>
+<p><strong>Description:</strong><br>
+DairyBrain is a research and extension initiative from UW–Madison that aims to build real-time, data-driven decision support tools for dairy farms. The project integrates multiple on-farm data sources—including sensors, software, and farm management systems—to support better decision-making through predictive analytics and visualization.</p>
+<p><strong>Objective:</strong><br>
+To develop scalable tools that transform complex dairy data into actionable insights, enabling more efficient, sustainable, and profitable farm management.</p>
+<p><strong>Outcomes:</strong><br>
+- ✅ Contributions to data engineering pipelines connecting sensor and herd management systems<br>
+- ✅ Predictive models for milk yield, feed intake, and economic indicators<br>
+- ✅ Development of real-time dashboards and data visualizations for on-farm use<br>
+- ✅ Peer-reviewed publication detailing data engineering applications in livestock production</p>
+<p>🔗 <a href="https://www.sciencedirect.com/science/article/abs/pii/S1871141321002109">Published Article – Livestock Science (2021)</a></p>
 <hr>
 </section>
 </section>
 <section id="ongoing-projects" class="level2">
 <h2 class="anchored" data-anchor-id="ongoing-projects">🚧 Ongoing Projects</h2>
-<section id="calftools-r-package" class="level3">
-<h3 class="anchored" data-anchor-id="calftools-r-package">CalfTools (R Package)</h3>
-<p>Development of a modular R package for calf nutrition modeling, including prediction of growth, energy/protein requirements, cost optimization, and integration with on-farm data. The goal is to offer a reproducible, open-source alternative for academic and practical use.</p>
+<hr>
+<section id="cotricalc-system-dairy-cost-estimation-system" class="level3">
+<h3 class="anchored" data-anchor-id="cotricalc-system-dairy-cost-estimation-system">Cotricalc System: Dairy Cost Estimation System</h3>
+<p><strong>Description:</strong><br>
+Cotricalc is a modular decision-support system developed in collaboration with <strong>Cotrijal</strong>, one of the largest agricultural cooperatives in Brazil. Designed to meet the specific needs of its dairy producers, the system focuses on accurately calculating milk production costs at the farm level, offering a customizable, transparent, and practical approach to financial management.</p>
+<p><strong>Objective:</strong><br>
+To support Cotrijal’s technical team and member farmers in tracking costs, margins, and resource allocation by providing a user-friendly platform built with <strong>R Shiny</strong> and integrated with <strong>Google Sheets</strong> for dynamic data entry and reporting.</p>
+<p><strong>Outcomes:</strong><br>
+- ✅ A fully functional and customizable milk production cost calculator<br>
+- ✅ Built-in modules for different cost categories (e.g., feed, labor, reproduction, health, etc.)<br>
+- ✅ Used as a technical and financial planning tool by Cotrijal technicians and dairy producers<br>
+- ✅ Designed for scalability and future integration with benchmarking tools and dashboards</p>
+<p>🔗 Internal deployment under Cotrijal’s technical extension program (in development)</p>
 <hr>
 </section>
-<section id="cotricalc-system-dairy-cost-estimation-tool" class="level3">
-<h3 class="anchored" data-anchor-id="cotricalc-system-dairy-cost-estimation-tool">Cotricalc System: Dairy Cost Estimation Tool</h3>
-<p>A modular decision-support platform under development in partnership with Cotrijal cooperative. Built using <strong>Shiny + Google Sheets</strong>, the tool aims to help producers monitor costs, margins, and resource allocation for dairy production in southern Brazil.</p>
-<hr>
-</section>
-<section id="behavioral-monitoring-anomaly-detection" class="level3">
-<h3 class="anchored" data-anchor-id="behavioral-monitoring-anomaly-detection">Behavioral Monitoring &amp; Anomaly Detection</h3>
-<p>Building predictive models using <strong>sensor data (e.g., rumination, feeding, activity)</strong> to identify behavioral anomalies and management deviations. Intended for integration into daily routines by producers and technicians to improve welfare and productivity.</p>
+<section id="behavioral-monitoring-anomaly-detection-system-name-tbd" class="level3">
+<h3 class="anchored" data-anchor-id="behavioral-monitoring-anomaly-detection-system-name-tbd">Behavioral Monitoring &amp; Anomaly Detection System <em>(Name TBD)</em></h3>
+<p><strong>Description:</strong><br>
+A predictive monitoring system being developed in collaboration with <strong>Cotrijal Cooperative</strong> and <strong>CowMed</strong>, a Brazilian company specializing in dairy cow behavior monitoring through sensor-equipped collars. The system leverages high-frequency behavioral data—including <strong>rumination</strong>, <strong>feeding</strong>, and <strong>activity patterns</strong>—to detect anomalies and provide actionable insights for farm management.</p>
+<p><strong>Objective:</strong><br>
+To support technicians and producers in identifying early signs of health or management issues, and to promote timely interventions that improve animal welfare and farm productivity. The system is intended to be integrated into the daily technical routines used by Cotrijal’s advisory teams.</p>
+<p><strong>Outcomes:</strong><br>
+- ✅ Predictive modeling using real-time data from CowMed collars<br>
+- ✅ Detection of behavioral anomalies linked to health and performance deviations<br>
+- ✅ Development of dashboards and alert systems to support day-to-day decisions<br>
+- ✅ Customization for Cotrijal’s operational structure and its member farms</p>
+<p>🔗 Internal development in partnership with Cotrijal and CowMed (underway)</p>
 <hr>
 <blockquote class="blockquote">
 <p>This page is constantly updated with recent and ongoing work. If you’d like to collaborate, feel free to reach out.</p>

@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Tadeu’s Blog",
     "section": "",
-    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 15, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 12, 2025\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+    "text": "Post With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nApr 15, 2025\n\n\nHarlow Malloc\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nApr 12, 2025\n\n\nTadeu Eder da Silva\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "posts/welcome/index.html",
@@ -26,5 +26,26 @@
     "title": "Post With Code",
     "section": "",
     "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "A web-based simulation tool that allows users to design and evaluate customized milk feeding plans for dairy calves. Developed in R + Shiny and based on NASEM (2021) nutrient requirements, CalfSim enables dynamic modeling of growth, cost per kg of gain, and feeding strategies under different scenarios.\n🔗 Try CalfSim\n\n\n\n\nA modeling tool developed to evaluate dairy farm management strategies with focus on greenhouse gas emissions, nutrient excretion, and overall sustainability. Contributed to the integration of biological processes across the system and development of custom outputs for decision support.\n🔗 More resources and tools\n\n\n\n\nLed a multidisciplinary project combining drone imaging, machine vision, and AI to estimate cattle weight and monitor feed bunk management in large commercial feedlots in Brazil. Integrated fieldwork with algorithm development and cross-functional collaboration between agri-tech and data science teams.\n\n\n\n\nWorked with the DairyBrain team at UW–Madison on building real-time decision support tools. Focused on: - Data engineering for sensor and management data streams - Predictive models for milk production, feed intake, and economic outcomes - Visualization and dashboards for use at the farm level"
+  },
+  {
+    "objectID": "projects.html#completed-projects",
+    "href": "projects.html#completed-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "A web-based simulation tool that allows users to design and evaluate customized milk feeding plans for dairy calves. Developed in R + Shiny and based on NASEM (2021) nutrient requirements, CalfSim enables dynamic modeling of growth, cost per kg of gain, and feeding strategies under different scenarios.\n🔗 Try CalfSim\n\n\n\n\nA modeling tool developed to evaluate dairy farm management strategies with focus on greenhouse gas emissions, nutrient excretion, and overall sustainability. Contributed to the integration of biological processes across the system and development of custom outputs for decision support.\n🔗 More resources and tools\n\n\n\n\nLed a multidisciplinary project combining drone imaging, machine vision, and AI to estimate cattle weight and monitor feed bunk management in large commercial feedlots in Brazil. Integrated fieldwork with algorithm development and cross-functional collaboration between agri-tech and data science teams.\n\n\n\n\nWorked with the DairyBrain team at UW–Madison on building real-time decision support tools. Focused on: - Data engineering for sensor and management data streams - Predictive models for milk production, feed intake, and economic outcomes - Visualization and dashboards for use at the farm level"
+  },
+  {
+    "objectID": "projects.html#ongoing-projects",
+    "href": "projects.html#ongoing-projects",
+    "title": "Projects",
+    "section": "🚧 Ongoing Projects",
+    "text": "🚧 Ongoing Projects\n\nCalfTools (R Package)\nDevelopment of a modular R package for calf nutrition modeling, including prediction of growth, energy/protein requirements, cost optimization, and integration with on-farm data. The goal is to offer a reproducible, open-source alternative for academic and practical use.\n\n\n\nCotricalc System: Dairy Cost Estimation Tool\nA modular decision-support platform under development in partnership with Cotrijal cooperative. Built using Shiny + Google Sheets, the tool aims to help producers monitor costs, margins, and resource allocation for dairy production in southern Brazil.\n\n\n\nBehavioral Monitoring & Anomaly Detection\nBuilding predictive models using sensor data (e.g., rumination, feeding, activity) to identify behavioral anomalies and management deviations. Intended for integration into daily routines by producers and technicians to improve welfare and productivity.\n\n\nThis page is constantly updated with recent and ongoing work. If you’d like to collaborate, feel free to reach out."
   }
 ]

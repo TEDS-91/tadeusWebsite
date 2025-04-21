@@ -1,12 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://TEDS-91.github.io/tadeusWebsite/presentation/dashboard.html</loc>
+    <lastmod>2025-04-18T16:06:52.220Z</lastmod>
+  </url>
+  <url>
     <loc>https://TEDS-91.github.io/tadeusWebsite/insights.html</loc>
     <lastmod>2025-04-17T21:50:04.180Z</lastmod>
   </url>
   <url>
     <loc>https://TEDS-91.github.io/tadeusWebsite/publications.html</loc>
-    <lastmod>2025-04-16T16:28:54.113Z</lastmod>
+    <lastmod>2025-04-21T20:22:11.534Z</lastmod>
   </url>
   <url>
     <loc>https://TEDS-91.github.io/tadeusWebsite/projects.html</loc>
@@ -27,5 +31,9 @@
   <url>
     <loc>https://TEDS-91.github.io/tadeusWebsite/about.html</loc>
     <lastmod>2025-04-17T21:27:09.327Z</lastmod>
+  </url>
+  <url>
+    <loc>https://TEDS-91.github.io/tadeusWebsite/presentation/presentation.html</loc>
+    <lastmod>2025-04-18T16:29:36.354Z</lastmod>
   </url>
 </urlset>

@@ -112,4 +112,7 @@ format:
 
 #### 2023
 
-- Cabrera & **Da Silva**. 2023. *DairyPrint model: Helping dairy farmers toward higher sustainability*. Progressive Dairy.
+- **Da Silva** & Cabrera. 2023. *DairyPrint model: Helping dairy farmers toward higher sustainability*. Progressive Dairy.
+
+#### 2022
+- Cabrera & **Da Silva**. 2023. *We can link the environment and economics*. Hoards Dairyman.

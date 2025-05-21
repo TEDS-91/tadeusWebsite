@@ -1,5 +1,120 @@
 ---
-title: "Tadeu's Blog Tests"
-page-layout: full
-title-block-banner: true
+title: "Projects"
+format:
+  html:
+    page-layout: article
+    toc: true
 ---
+
+## ✅ Completed Projects
+
+### DairyPrint: Sustainability & Systems Modeling
+
+**Description:**  
+A modeling tool developed to evaluate dairy farm management strategies, with a focus on **greenhouse gas emissions**, **nutrient excretion**, and overall sustainability. DairyPrint integrates key biological processes across the system and delivers tailored outputs to support decision-making on commercial dairy farms.
+
+**Objective:**  
+To support farmers, advisors, and researchers in exploring how different management strategies affect productivity and environmental outcomes in dairy systems.
+
+**Outcomes:**  
+- ✅ An interactive online tool for scenario simulation  
+- ✅ A peer-reviewed publication describing model structure, functionality, and use cases  
+- ✅ Additional resources including abstracts, scientific articles, and videos explaining how the model works
+
+🔗 [Online Model and Resources](https://dairymgt.cals.wisc.edu/tools.php#Environment)  
+📄 [Journal Article (JDS, 2024)](https://www.sciencedirect.com/science/article/pii/S002203022401049X)
+
+---
+
+### CalfSim: Milk Feeding Simulator
+
+**Description:**  
+CalfSim is a web-based simulation tool designed to help users create and evaluate customized milk feeding plans for dairy calves. Developed in **R + Shiny** and based on the nutrient requirements from **NASEM (2021)**, the tool models body weight gain, cost per kg of gain, and feeding strategies under various user-defined scenarios.
+
+**Objective:**  
+To support calf nutrition planning by enabling producers, consultants, and researchers to explore and compare the biological and economic outcomes of different liquid feeding strategies over time.
+
+**Outcomes:**  
+- ✅ An interactive tool to design milk plans for preweaned calves  
+- ✅ Submitted manuscript to the *Journal of Dairy Science* describing methodology, structure, and applications  
+- ✅ Complementary resources planned for training and on-farm application
+
+🔗 [Try CalfSim](https://tadeuedersilva.shinyapps.io/calfsim/)
+📄 Manuscript submitted to *Journal of Dairy Science* (under review)
+
+---
+
+### DairyBrain: Predictive Decision Support Tools
+
+**Description:**  
+DairyBrain is a research and extension initiative from UW–Madison that aims to build real-time, data-driven decision support tools for dairy farms. The project integrates multiple on-farm data sources—including sensors, software, and farm management systems—to support better decision-making through predictive analytics and visualization.
+
+**Objective:**  
+To develop scalable tools that transform complex dairy data into actionable insights, enabling more efficient, sustainable, and profitable farm management.
+
+**Outcomes:**  
+- ✅ Contributions to data engineering pipelines connecting sensor and herd management systems  
+- ✅ Predictive models for milk yield, feed intake, and economic indicators  
+- ✅ Development of real-time dashboards and data visualizations for on-farm use  
+- ✅ Peer-reviewed publication detailing data engineering applications in livestock production
+
+🔗 [Published Article – Livestock Science (2021)](https://www.sciencedirect.com/science/article/abs/pii/S1871141321002109)
+
+---
+
+## 🚧 Ongoing Projects
+
+---
+
+### Portable NIR Calibration: Urochloa spp. Forage Quality Prediction
+
+**Description:**  
+This project investigates how different preprocessing methods influence the prediction of **dry matter (DM)** and **neutral detergent fiber (NDF)** in *Urochloa spp.* forages using a **handheld near infrared (NIR) spectrophotometer**. Developed in partnership between the **Universidade federal Rural do Rio de Janeiro (UFRRJ)** and the **University of Vermont**, the project aims to improve forage analysis in tropical grazing systems through portable, field-ready technologies.
+
+**Objective:**  
+To enhance the accuracy and usability of portable NIR devices in predicting forage chemical composition under varying sample conditions—whether fresh, dried, or processed—by identifying optimal preprocessing strategies.
+
+**Outcomes:**  
+- ✅ Determination of the most appropriate preprocessing approaches depending on forage sample type (fresh, dried, milled)  
+- ✅ Generation of calibration curves for use in future on-farm applications  
+
+---
+
+### Cotricalc System: Dairy Cost Estimation System
+
+**Description:**  
+Cotricalc is a modular decision-support system developed in collaboration with **Cotrijal**, one of the largest agricultural cooperatives in Brazil. Designed to meet the specific needs of its dairy producers, the system focuses on accurately calculating milk production costs at the farm level, offering a customizable, transparent, and practical approach to financial management.
+
+**Objective:**  
+To support Cotrijal’s technical team and member farmers in tracking costs, margins, and resource allocation by providing a user-friendly platform built with **R Shiny** and integrated with **Google Sheets** for dynamic data entry and reporting.
+
+**Outcomes:**  
+- ✅ A fully functional and customizable milk production cost calculator  
+- ✅ Built-in modules for different cost categories (e.g., feed, labor, reproduction, health, etc.)  
+- ✅ Used as a technical and financial planning tool by Cotrijal technicians and dairy producers  
+- ✅ Designed for scalability and future integration with benchmarking tools and dashboards
+
+🔗 Internal deployment under Cotrijal's technical extension program (in development)
+
+---
+
+### Behavioral Monitoring & Anomaly Detection System *(Name TBD)*
+
+**Description:**  
+A predictive monitoring system being developed in collaboration with **Cotrijal Cooperative** and **CowMed**, a Brazilian company specializing in dairy cow behavior monitoring through sensor-equipped collars. The system leverages high-frequency behavioral data—including **rumination**, **feeding**, and **activity patterns**—to detect anomalies and provide actionable insights for farm management.
+
+**Objective:**  
+To support technicians and producers in identifying early signs of health or management issues, and to promote timely interventions that improve animal welfare and farm productivity. The system is intended to be integrated into the daily technical routines used by Cotrijal’s advisory teams.
+
+**Outcomes:**  
+- ✅ Predictive modeling using real-time data from CowMed collars  
+- ✅ Detection of behavioral anomalies linked to health and performance deviations  
+- ✅ Development of dashboards and alert systems to support day-to-day decisions  
+- ✅ Customization for Cotrijal’s operational structure and its member farms
+
+🔗 Internal development in partnership with Cotrijal and CowMed (underway)
+
+---
+
+> This page is constantly updated with recent and ongoing work. If you'd like to collaborate, feel free to reach out.
+

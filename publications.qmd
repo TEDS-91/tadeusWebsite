@@ -1,4 +1,115 @@
 ---
-title: "Untitled"
-editor: visual
+title: "Publications"
+format:
+  html:
+    toc: true
+    page-layout: article
 ---
+
+## 📚 Publications {.tabset}
+
+### 📘 Scientific Papers
+
+#### 2025
+
+- Kelly, B. L., Proudfoot, K. L., **Da Silva, T. E.**, Costa, J. H. C., Ventura, B. A. 2025. Animal welfare information frames US public perceptions of precision technology use on dairy farms. *Journal of Dairy Science* (In Press).  
+  🔗 [Link to article](https://www.journalofdairyscience.org/article/S0022-0302(25)00256-5/fulltext)
+
+
+#### 2024
+
+- **Silva, T. E.**, Costa, J.H.C. Seasonal and regional patterns of behavioral and physiological dairy cow parameters in Brazil: a time series analysis approach. *11th European Conference on Precision Livestock Farming*, Bologna, Italy.
+
+- **Da Silva, T. E.**, Cabrera, V. E. The DairyPrint Model: A Decision-Support Model to Help Dairy Farmers and Other Stakeholders Towards Improved Sustainability. *Journal of Dairy Science*, 107: 10998–11015. *(JDS Editor’s Choice)*.
+
+- **Da Silva, T. E.**, Oliveira, C. V. R., Rodrigues, A. N., Palma, M. N. N., Camacho, L. F., Rennó, L. N., Franco, M. O., Detmann, E. Effects of supplementation frequency on nutritional performance and metabolism of cattle fed low-quality tropical forage. *Animal Feed Science and Technology*.
+
+- Sguizzato, A. L. L., **Da Silva, T. E.**, et al. Understanding the dynamics of mastitis in milk yield. *Journal of Dairy Science Communications*.
+
+- Valente Junior, D. T., **Da Silva, T. E.**, et al. Do carcass traits influence consumer perception of pork eating quality? *Meat Science*, 208: 109381.
+
+- Ferreira, Y.M., **Da Silva, T. E.**, et al. A Simplified Daily Fit Model to Reduce Costs and Nutrient Intake in Growing-Finishing Pigs. *Animals*, 14-2922.
+
+- Reuscher, K. J., **Da Silva, T. E.**, et al. Comparison of behavior, thermoregulation, and growth of pair-housed versus individually housed calves. *Journal of Dairy Science*, 107: 2268–2283. *(JDS Editor’s Choice)*.
+
+#### 2023
+
+- Andrade, A. C., **Da Silva, T. E.**, et al. Identifying pregnancy in cows using ovarian ultrasound images and convolutional neural networks. *Computers and Electronics in Agriculture*, 206: 107674.
+
+- Camacho, L. F., **Da Silva, T. E.**, et al. Can associative effects affect in vitro digestibility? *Ruminants*, 3: 100–110.
+
+- Rodrigues, A. N., **Da Silva, T. E.**, et al. Evaluation of chromium-EDTA and creatinine as urinary markers. *Acta Agriculturae Scandinavica Section A*.
+
+- Reuscher, K. J., **Da Silva, T. E.**, et al. Air speeds at cow resting height and heat stress response. *Journal of Dairy Science*, 106: 9552–9567.
+
+- Palma, M. N. N., **Da Silva, T. E.**, et al. Energy supplementation in tropical forages. *Animal Feed Science and Technology*, 297: 115599.
+
+#### 2022
+
+- Barcelos, S. S., **Da Silva, T. E.**, et al. Prenatal diet on calf performance. *Animals*, 12: 2145.
+
+- Assunção, A. S., **Da Silva, T. E.**, et al. Variability in in situ degradation studies. *Animals*, 12: 1901.
+
+- Fadul-Pacheco, L., **Da Silva, T. E.**, et al. Data bottlenecks in the dairy industry. *Animals*, 12: 721.
+
+#### 2021
+
+- Wangen, S. R., **Da Silva, T. E.**, et al. Data engineering for dairy operations. *Livestock Science*, 250: 104602.
+
+- Baldin, M., **Da Silva, T. E.**, et al. Integrated decision support systems (IDSS) for dairy farming. *Animals*, 11: 2025.
+
+#### 2020
+
+- Oliveira, C., **Da Silva, T. E.**, et al. Urea supplementation in rumen and post-rumen. *British Journal of Nutrition*.
+
+- Bayão, G. F. V., **Da Silva, T. E.**, et al. Heart-of-palm byproduct for lactating cows. *Journal of Applied Animal Research*, 48: 1–6.
+
+#### 2019
+
+- Costa, G. P., **Da Silva, T. E.**, et al. Nitrogen quantification by Kjeldahl method. *Revista Agrária Acadêmica*, 2: 151–159.
+
+- Costa e Silva, L. F., **Da Silva, T. E.**, et al. Net protein requirements for zebu cattle. *Animal*.
+
+#### 2018
+
+- Rodrigues, A. N., **Da Silva, T. E.**, et al. Sodium hydroxide in Kjeldahl method. *Boletim de Indústria Animal*, 75: 9–16.
+
+- **Da Silva, T. E.**, et al. Digestible NDF prediction for cattle. *Revista Brasileira de Biometria*, 36: 290–315.
+
+- Camacho, L. F., **Da Silva, T. E.**, et al. Buffer and urea addition in digestibility. *Journal of Animal Science*, 97: 922–931.
+
+#### 2017
+
+- **Da Silva, T. E.**, et al. Comparison of in vitro methods for digestibility. *Arq. Bras. Med. Vet. Zootec.*, 69: 1635–1644.
+
+- Oss, D. B., **Da Silva, T. E.**, et al. Requirements of Holstein × Gyr bulls. *Journal of Dairy Science*, 100: 2603–2613.
+
+#### 2016
+
+- **Da Silva, T. E.**, et al. Kjeldahl digestion procedures for nitrogen. *Acta Scientiarum. Animal Sciences*, 38: 45–51.
+
+- Andrade, F. L., **Da Silva, T. E.**, et al. Corn vs. sugarcane silage in dairy cows. *Tropical Animal Health and Production*, 48: 747–753.
+
+#### 2015
+
+- Albino, R. L., **Da Silva, T. E.**, et al. Mammary gland development in dairy heifers. *Journal of Dairy Research*, 82: 113–120.
+
+---
+
+### 📘 Books
+
+#### 2025
+
+- Detmann, E., Rodrigues, J. P. P., **Silva, T. E.**, Brito Neto, A. S., Franco, M. O. *Methods for Feed Analysis*. 3rd ed. Viçosa: INCT Ciência Animal. Vol. 1, 323p.
+
+---
+
+### 📰 Magazine Articles
+
+#### 2025
+
+- Costa & **Da Silva**. 2025. *Milk feeding programs' effects on dairy calf growth: Increased allowances of milk in early life matters*. Progressive Dairy.
+
+#### 2023
+
+- Cabrera & **Da Silva**. 2023. *DairyPrint model: Helping dairy farmers toward higher sustainability*. Progressive Dairy.

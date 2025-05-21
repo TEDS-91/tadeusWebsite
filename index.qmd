@@ -1,14 +1,10 @@
 ---
-title: "Tadeu's Blog"
-listing:
-  contents: posts
-  sort: "date desc"
-  type: default
-  categories: true
-  sort-ui: false
-  filter-ui: false
+title: "Redirecting..."
+format: html
 page-layout: full
-title-block-banner: true
 ---
+
+<meta http-equiv="refresh" content="0; url=about.html">
+
 
 

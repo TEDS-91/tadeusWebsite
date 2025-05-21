@@ -1,0 +1,198 @@
+[
+  {
+    "objectID": "videos.html",
+    "href": "videos.html",
+    "title": "Tadeu Eder da Silva, PhD",
+    "section": "",
+    "text": "🎤 Dairy Innovation Hub Symposium 2023\nPresentation given by Dr. Tadeu Eder da Silva and Dr. Prof. Victor Cabrera at the Dairy Innovation Hub Symposium 2023.\nIn this session, we introduced and demonstrated the DairyPrint model, a decision-support model designed to evaluate dairy farm sustainability by integrating biological processes and simulating management strategies."
+  },
+  {
+    "objectID": "presentation/presentation.html#outline",
+    "href": "presentation/presentation.html#outline",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "Outline",
+    "text": "Outline\n\nCalfSim Online Platform\n\nCalf nutrition with high allowances of milk\n\nNASEM (2021) Model in a high allowance of milk world\n\nFeed intake observed vs predicted\n\nMilk replacer composition × NASEM\n\nMilk replacer fat levels\n\nOn-farm decisions based on data\n\nExamples and templates"
+  },
+  {
+    "objectID": "presentation/presentation.html#calfsim---objectives",
+    "href": "presentation/presentation.html#calfsim---objectives",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "CALFSIM - Objectives",
+    "text": "CALFSIM - Objectives\nProvide dairy stakeholders (nutritionists, veterinarians, researchers):\n\nOpen-source and user-friendly tool to:\n\nSimulate performance of dairy calves\n\nAssess economics\n\nUse on-farm data to calibrate models\n\nCustomize predictions to farm conditions"
+  },
+  {
+    "objectID": "presentation/presentation.html#calfsim-basis",
+    "href": "presentation/presentation.html#calfsim-basis",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "CALFSIM Basis",
+    "text": "CALFSIM Basis\n\nStarter intake: NASEM (2021)\n\nTemperate & subtropical conditions\n\nDaily energy predictions for:\n\nMaintenance (temp correction)\n\nGain"
+  },
+  {
+    "objectID": "presentation/presentation.html#calfsim-starter-me-calculations",
+    "href": "presentation/presentation.html#calfsim-starter-me-calculations",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "CALFSIM – Starter ME Calculations",
+    "text": "CALFSIM – Starter ME Calculations\n\nBased on Quigley et al. (2019): 15 kg cumulative NFC\n\nInputs:\n\nBirth weight (kg)\nWeaning age (days)\nTemperature (°C)\nMilk composition (CP, Fat, Ash, Solids %)\nStarter (CP, Fat, NDF, NFC %)"
+  },
+  {
+    "objectID": "presentation/presentation.html#calfsim-architecture",
+    "href": "presentation/presentation.html#calfsim-architecture",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "CALFSIM Architecture",
+    "text": "CALFSIM Architecture\n\nArchitecture Diagram"
+  },
+  {
+    "objectID": "presentation/presentation.html#application---inputs",
+    "href": "presentation/presentation.html#application---inputs",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "Application - Inputs",
+    "text": "Application - Inputs\n\nMike Van Amburgh, Alex Bach, Tom Earleywine\n\nExample interface:\n\n\nInputs Screenshot"
+  },
+  {
+    "objectID": "presentation/presentation.html#application---outputs",
+    "href": "presentation/presentation.html#application---outputs",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "Application - Outputs",
+    "text": "Application - Outputs\n\nQR Code access\n\nVisualization of predicted growth & intake:\n\n\nOutputs Screenshot"
+  },
+  {
+    "objectID": "presentation/presentation.html#model-assessment-overview",
+    "href": "presentation/presentation.html#model-assessment-overview",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "Model Assessment Overview",
+    "text": "Model Assessment Overview\n\nTrials:\n\n3 in Canada (MapleView)\n2 in Brazil\n1 in US\n\n\nBased on Tedeschi (2006)"
+  },
+  {
+    "objectID": "presentation/presentation.html#model-results-bw-gain",
+    "href": "presentation/presentation.html#model-results-bw-gain",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "Model Results – BW Gain",
+    "text": "Model Results – BW Gain\n\nBody Weight Gain"
+  },
+  {
+    "objectID": "presentation/presentation.html#model-results-starter-intake",
+    "href": "presentation/presentation.html#model-results-starter-intake",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "Model Results – Starter Intake",
+    "text": "Model Results – Starter Intake\n\nStarter Intake"
+  },
+  {
+    "objectID": "presentation/presentation.html#whole-milk-vs-milk-replacer",
+    "href": "presentation/presentation.html#whole-milk-vs-milk-replacer",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "Whole Milk vs Milk Replacer",
+    "text": "Whole Milk vs Milk Replacer\n\nOsmolarity:\n\n300 mOsm (Whole Milk)\n400–600 mOsm (MR)\n\n\nGut permeability & insulin sensitivity\n\n\nWhole Milk vs MR"
+  },
+  {
+    "objectID": "presentation/presentation.html#high-fat-vs-high-lactose-ad-libitum",
+    "href": "presentation/presentation.html#high-fat-vs-high-lactose-ad-libitum",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "High Fat vs High Lactose – Ad Libitum",
+    "text": "High Fat vs High Lactose – Ad Libitum\n\nPerformance & ME use\n\nLiver glycogen effects\n\n\nHigh Fat vs High Lactose"
+  },
+  {
+    "objectID": "presentation/presentation.html#metabolic-impact",
+    "href": "presentation/presentation.html#metabolic-impact",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "Metabolic Impact",
+    "text": "Metabolic Impact\n\nMinimal growth differences\n\nLarge changes in metabolic fingerprints\n\n\nMetabolic Effects"
+  },
+  {
+    "objectID": "presentation/presentation.html#gut-structure-fatty-acids",
+    "href": "presentation/presentation.html#gut-structure-fatty-acids",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "Gut Structure & Fatty Acids",
+    "text": "Gut Structure & Fatty Acids\n\nWhole milk powder vs MR\n\nGut fatty acid composition\n\n\nGut Composition"
+  },
+  {
+    "objectID": "presentation/presentation.html#mr-fat-levels-and-oil-ratios",
+    "href": "presentation/presentation.html#mr-fat-levels-and-oil-ratios",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "MR Fat Levels and Oil Ratios",
+    "text": "MR Fat Levels and Oil Ratios\n\nFat levels: 17%, 24%, 31%\n\nCoconut:Palm oil ratio trials\n\n\nMR Fat Levels"
+  },
+  {
+    "objectID": "presentation/presentation.html#final-thoughts",
+    "href": "presentation/presentation.html#final-thoughts",
+    "title": "2024 CALF INFORMAL ADSA MEETING",
+    "section": "Final Thoughts",
+    "text": "Final Thoughts\nAre we ready to model high allowance diets?\nWhat about individual calves?"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Tadeu Eder da Silva, PhD.",
+    "section": "",
+    "text": "I’m a lifelong learner passionate about science—especially animal science—technology, and the power of data. I enjoy working with AI, programming, software development, modeling, and decision support systems to solve real-world problems in livestock production. I’m particularly enthusiastic about creating meaningful data visualizations and applying data-driven approaches to support decision-making in dairy and beef systems.\n\n\nKeywords: animal science, precision livestock farming, statistical modeling, dataViz, machine learning and AI, R/Python programming, dairy and beef production, decision support tools, and data-driven decision-making"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is a post with executable code."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Description:\nA modeling tool developed to evaluate dairy farm management strategies, with a focus on greenhouse gas emissions, nutrient excretion, and overall sustainability. DairyPrint integrates key biological processes across the system and delivers tailored outputs to support decision-making on commercial dairy farms.\nObjective:\nTo support farmers, advisors, and researchers in exploring how different management strategies affect productivity and environmental outcomes in dairy systems.\nOutcomes:\n- ✅ An interactive online tool for scenario simulation\n- ✅ A peer-reviewed publication describing model structure, functionality, and use cases\n- ✅ Additional resources including abstracts, scientific articles, and videos explaining how the model works\n🔗 Online Model and Resources\n📄 Journal Article (JDS, 2024)\n\n\n\n\nDescription:\nCalfSim is a web-based simulation tool designed to help users create and evaluate customized milk feeding plans for dairy calves. Developed in R + Shiny and based on the nutrient requirements from NASEM (2021), the tool models body weight gain, cost per kg of gain, and feeding strategies under various user-defined scenarios.\nObjective:\nTo support calf nutrition planning by enabling producers, consultants, and researchers to explore and compare the biological and economic outcomes of different liquid feeding strategies over time.\nOutcomes:\n- ✅ An interactive tool to design milk plans for preweaned calves\n- ✅ Submitted manuscript to the Journal of Dairy Science describing methodology, structure, and applications\n- ✅ Complementary resources planned for training and on-farm application\n🔗 Try CalfSim 📄 Manuscript submitted to Journal of Dairy Science (under review)\n\n\n\n\nDescription:\nDairyBrain is a research and extension initiative from UW–Madison that aims to build real-time, data-driven decision support tools for dairy farms. The project integrates multiple on-farm data sources—including sensors, software, and farm management systems—to support better decision-making through predictive analytics and visualization.\nObjective:\nTo develop scalable tools that transform complex dairy data into actionable insights, enabling more efficient, sustainable, and profitable farm management.\nOutcomes:\n- ✅ Contributions to data engineering pipelines connecting sensor and herd management systems\n- ✅ Predictive models for milk yield, feed intake, and economic indicators\n- ✅ Development of real-time dashboards and data visualizations for on-farm use\n- ✅ Peer-reviewed publication detailing data engineering applications in livestock production\n🔗 Published Article – Livestock Science (2021)"
+  },
+  {
+    "objectID": "projects.html#completed-projects",
+    "href": "projects.html#completed-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Description:\nA modeling tool developed to evaluate dairy farm management strategies, with a focus on greenhouse gas emissions, nutrient excretion, and overall sustainability. DairyPrint integrates key biological processes across the system and delivers tailored outputs to support decision-making on commercial dairy farms.\nObjective:\nTo support farmers, advisors, and researchers in exploring how different management strategies affect productivity and environmental outcomes in dairy systems.\nOutcomes:\n- ✅ An interactive online tool for scenario simulation\n- ✅ A peer-reviewed publication describing model structure, functionality, and use cases\n- ✅ Additional resources including abstracts, scientific articles, and videos explaining how the model works\n🔗 Online Model and Resources\n📄 Journal Article (JDS, 2024)\n\n\n\n\nDescription:\nCalfSim is a web-based simulation tool designed to help users create and evaluate customized milk feeding plans for dairy calves. Developed in R + Shiny and based on the nutrient requirements from NASEM (2021), the tool models body weight gain, cost per kg of gain, and feeding strategies under various user-defined scenarios.\nObjective:\nTo support calf nutrition planning by enabling producers, consultants, and researchers to explore and compare the biological and economic outcomes of different liquid feeding strategies over time.\nOutcomes:\n- ✅ An interactive tool to design milk plans for preweaned calves\n- ✅ Submitted manuscript to the Journal of Dairy Science describing methodology, structure, and applications\n- ✅ Complementary resources planned for training and on-farm application\n🔗 Try CalfSim 📄 Manuscript submitted to Journal of Dairy Science (under review)\n\n\n\n\nDescription:\nDairyBrain is a research and extension initiative from UW–Madison that aims to build real-time, data-driven decision support tools for dairy farms. The project integrates multiple on-farm data sources—including sensors, software, and farm management systems—to support better decision-making through predictive analytics and visualization.\nObjective:\nTo develop scalable tools that transform complex dairy data into actionable insights, enabling more efficient, sustainable, and profitable farm management.\nOutcomes:\n- ✅ Contributions to data engineering pipelines connecting sensor and herd management systems\n- ✅ Predictive models for milk yield, feed intake, and economic indicators\n- ✅ Development of real-time dashboards and data visualizations for on-farm use\n- ✅ Peer-reviewed publication detailing data engineering applications in livestock production\n🔗 Published Article – Livestock Science (2021)"
+  },
+  {
+    "objectID": "projects.html#ongoing-projects",
+    "href": "projects.html#ongoing-projects",
+    "title": "Projects",
+    "section": "🚧 Ongoing Projects",
+    "text": "🚧 Ongoing Projects\n\n\nPortable NIR Calibration: Urochloa spp. Forage Quality Prediction\nDescription:\nThis project investigates how different preprocessing methods influence the prediction of dry matter (DM) and neutral detergent fiber (NDF) in Urochloa spp. forages using a handheld near infrared (NIR) spectrophotometer. Developed in partnership between the Universidade federal Rural do Rio de Janeiro (UFRRJ) and the University of Vermont, the project aims to improve forage analysis in tropical grazing systems through portable, field-ready technologies.\nObjective:\nTo enhance the accuracy and usability of portable NIR devices in predicting forage chemical composition under varying sample conditions—whether fresh, dried, or processed—by identifying optimal preprocessing strategies.\nOutcomes:\n- ✅ Determination of the most appropriate preprocessing approaches depending on forage sample type (fresh, dried, milled)\n- ✅ Generation of calibration curves for use in future on-farm applications\n\n\n\nCotricalc System: Dairy Cost Estimation System\nDescription:\nCotricalc is a modular decision-support system developed in collaboration with Cotrijal, one of the largest agricultural cooperatives in Brazil. Designed to meet the specific needs of its dairy producers, the system focuses on accurately calculating milk production costs at the farm level, offering a customizable, transparent, and practical approach to financial management.\nObjective:\nTo support Cotrijal’s technical team and member farmers in tracking costs, margins, and resource allocation by providing a user-friendly platform built with R Shiny and integrated with Google Sheets for dynamic data entry and reporting.\nOutcomes:\n- ✅ A fully functional and customizable milk production cost calculator\n- ✅ Built-in modules for different cost categories (e.g., feed, labor, reproduction, health, etc.)\n- ✅ Used as a technical and financial planning tool by Cotrijal technicians and dairy producers\n- ✅ Designed for scalability and future integration with benchmarking tools and dashboards\n🔗 Internal deployment under Cotrijal’s technical extension program (in development)\n\n\n\nBehavioral Monitoring & Anomaly Detection System (Name TBD)\nDescription:\nA predictive monitoring system being developed in collaboration with Cotrijal Cooperative and CowMed, a Brazilian company specializing in dairy cow behavior monitoring through sensor-equipped collars. The system leverages high-frequency behavioral data—including rumination, feeding, and activity patterns—to detect anomalies and provide actionable insights for farm management.\nObjective:\nTo support technicians and producers in identifying early signs of health or management issues, and to promote timely interventions that improve animal welfare and farm productivity. The system is intended to be integrated into the daily technical routines used by Cotrijal’s advisory teams.\nOutcomes:\n- ✅ Predictive modeling using real-time data from CowMed collars\n- ✅ Detection of behavioral anomalies linked to health and performance deviations\n- ✅ Development of dashboards and alert systems to support day-to-day decisions\n- ✅ Customization for Cotrijal’s operational structure and its member farms\n🔗 Internal development in partnership with Cotrijal and CowMed (underway)\n\n\nThis page is constantly updated with recent and ongoing work. If you’d like to collaborate, feel free to reach out."
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Kelly, B. L., Proudfoot, K. L., Da Silva, T. E., Costa, J. H. C., Ventura, B. A. 2025. Animal welfare information frames US public perceptions of precision technology use on dairy farms. Journal of Dairy Science (In Press).\n🔗 Link to article\n\n\n\n\n\nSilva, T. E., Costa, J.H.C. Seasonal and regional patterns of behavioral and physiological dairy cow parameters in Brazil: a time series analysis approach. 11th European Conference on Precision Livestock Farming, Bologna, Italy.\nDa Silva, T. E., Cabrera, V. E. The DairyPrint Model: A Decision-Support Model to Help Dairy Farmers and Other Stakeholders Towards Improved Sustainability. Journal of Dairy Science, 107: 10998–11015. (JDS Editor’s Choice).\nDa Silva, T. E., Oliveira, C. V. R., Rodrigues, A. N., Palma, M. N. N., Camacho, L. F., Rennó, L. N., Franco, M. O., Detmann, E. Effects of supplementation frequency on nutritional performance and metabolism of cattle fed low-quality tropical forage. Animal Feed Science and Technology.\nSguizzato, A. L. L., Da Silva, T. E., et al. Understanding the dynamics of mastitis in milk yield. Journal of Dairy Science Communications.\nValente Junior, D. T., Da Silva, T. E., et al. Do carcass traits influence consumer perception of pork eating quality? Meat Science, 208: 109381.\nFerreira, Y.M., Da Silva, T. E., et al. A Simplified Daily Fit Model to Reduce Costs and Nutrient Intake in Growing-Finishing Pigs. Animals, 14-2922.\nReuscher, K. J., Da Silva, T. E., et al. Comparison of behavior, thermoregulation, and growth of pair-housed versus individually housed calves. Journal of Dairy Science, 107: 2268–2283. (JDS Editor’s Choice).\n\n\n\n\n\nAndrade, A. C., Da Silva, T. E., et al. Identifying pregnancy in cows using ovarian ultrasound images and convolutional neural networks. Computers and Electronics in Agriculture, 206: 107674.\nCamacho, L. F., Da Silva, T. E., et al. Can associative effects affect in vitro digestibility? Ruminants, 3: 100–110.\nRodrigues, A. N., Da Silva, T. E., et al. Evaluation of chromium-EDTA and creatinine as urinary markers. Acta Agriculturae Scandinavica Section A.\nReuscher, K. J., Da Silva, T. E., et al. Air speeds at cow resting height and heat stress response. Journal of Dairy Science, 106: 9552–9567.\nPalma, M. N. N., Da Silva, T. E., et al. Energy supplementation in tropical forages. Animal Feed Science and Technology, 297: 115599.\n\n\n\n\n\nBarcelos, S. S., Da Silva, T. E., et al. Prenatal diet on calf performance. Animals, 12: 2145.\nAssunção, A. S., Da Silva, T. E., et al. Variability in in situ degradation studies. Animals, 12: 1901.\nFadul-Pacheco, L., Da Silva, T. E., et al. Data bottlenecks in the dairy industry. Animals, 12: 721.\n\n\n\n\n\nWangen, S. R., Da Silva, T. E., et al. Data engineering for dairy operations. Livestock Science, 250: 104602.\nBaldin, M., Da Silva, T. E., et al. Integrated decision support systems (IDSS) for dairy farming. Animals, 11: 2025.\n\n\n\n\n\nOliveira, C., Da Silva, T. E., et al. Urea supplementation in rumen and post-rumen. British Journal of Nutrition.\nBayão, G. F. V., Da Silva, T. E., et al. Heart-of-palm byproduct for lactating cows. Journal of Applied Animal Research, 48: 1–6.\n\n\n\n\n\nCosta, G. P., Da Silva, T. E., et al. Nitrogen quantification by Kjeldahl method. Revista Agrária Acadêmica, 2: 151–159.\nCosta e Silva, L. F., Da Silva, T. E., et al. Net protein requirements for zebu cattle. Animal.\n\n\n\n\n\nRodrigues, A. N., Da Silva, T. E., et al. Sodium hydroxide in Kjeldahl method. Boletim de Indústria Animal, 75: 9–16.\nDa Silva, T. E., et al. Digestible NDF prediction for cattle. Revista Brasileira de Biometria, 36: 290–315.\nCamacho, L. F., Da Silva, T. E., et al. Buffer and urea addition in digestibility. Journal of Animal Science, 97: 922–931.\n\n\n\n\n\nDa Silva, T. E., et al. Comparison of in vitro methods for digestibility. Arq. Bras. Med. Vet. Zootec., 69: 1635–1644.\nOss, D. B., Da Silva, T. E., et al. Requirements of Holstein × Gyr bulls. Journal of Dairy Science, 100: 2603–2613.\n\n\n\n\n\nDa Silva, T. E., et al. Kjeldahl digestion procedures for nitrogen. Acta Scientiarum. Animal Sciences, 38: 45–51.\nAndrade, F. L., Da Silva, T. E., et al. Corn vs. sugarcane silage in dairy cows. Tropical Animal Health and Production, 48: 747–753.\n\n\n\n\n\nAlbino, R. L., Da Silva, T. E., et al. Mammary gland development in dairy heifers. Journal of Dairy Research, 82: 113–120.\n\n\n\n\n\n\n\n\n\nDetmann, E., Rodrigues, J. P. P., Silva, T. E., Brito Neto, A. S., Franco, M. O. Methods for Feed Analysis. 3rd ed. Viçosa: INCT Ciência Animal. Vol. 1, 323p.\n\n\n\n\n\n\n\n\n\nCosta & Da Silva. 2025. Milk feeding programs’ effects on dairy calf growth: Increased allowances of milk in early life matters. Progressive Dairy.\n\n\n\n\n\nCabrera & Da Silva. 2023. DairyPrint model: Helping dairy farmers toward higher sustainability. Progressive Dairy."
+  },
+  {
+    "objectID": "publications.html#publications",
+    "href": "publications.html#publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Kelly, B. L., Proudfoot, K. L., Da Silva, T. E., Costa, J. H. C., Ventura, B. A. 2025. Animal welfare information frames US public perceptions of precision technology use on dairy farms. Journal of Dairy Science (In Press).\n🔗 Link to article\n\n\n\n\n\nSilva, T. E., Costa, J.H.C. Seasonal and regional patterns of behavioral and physiological dairy cow parameters in Brazil: a time series analysis approach. 11th European Conference on Precision Livestock Farming, Bologna, Italy.\nDa Silva, T. E., Cabrera, V. E. The DairyPrint Model: A Decision-Support Model to Help Dairy Farmers and Other Stakeholders Towards Improved Sustainability. Journal of Dairy Science, 107: 10998–11015. (JDS Editor’s Choice).\nDa Silva, T. E., Oliveira, C. V. R., Rodrigues, A. N., Palma, M. N. N., Camacho, L. F., Rennó, L. N., Franco, M. O., Detmann, E. Effects of supplementation frequency on nutritional performance and metabolism of cattle fed low-quality tropical forage. Animal Feed Science and Technology.\nSguizzato, A. L. L., Da Silva, T. E., et al. Understanding the dynamics of mastitis in milk yield. Journal of Dairy Science Communications.\nValente Junior, D. T., Da Silva, T. E., et al. Do carcass traits influence consumer perception of pork eating quality? Meat Science, 208: 109381.\nFerreira, Y.M., Da Silva, T. E., et al. A Simplified Daily Fit Model to Reduce Costs and Nutrient Intake in Growing-Finishing Pigs. Animals, 14-2922.\nReuscher, K. J., Da Silva, T. E., et al. Comparison of behavior, thermoregulation, and growth of pair-housed versus individually housed calves. Journal of Dairy Science, 107: 2268–2283. (JDS Editor’s Choice).\n\n\n\n\n\nAndrade, A. C., Da Silva, T. E., et al. Identifying pregnancy in cows using ovarian ultrasound images and convolutional neural networks. Computers and Electronics in Agriculture, 206: 107674.\nCamacho, L. F., Da Silva, T. E., et al. Can associative effects affect in vitro digestibility? Ruminants, 3: 100–110.\nRodrigues, A. N., Da Silva, T. E., et al. Evaluation of chromium-EDTA and creatinine as urinary markers. Acta Agriculturae Scandinavica Section A.\nReuscher, K. J., Da Silva, T. E., et al. Air speeds at cow resting height and heat stress response. Journal of Dairy Science, 106: 9552–9567.\nPalma, M. N. N., Da Silva, T. E., et al. Energy supplementation in tropical forages. Animal Feed Science and Technology, 297: 115599.\n\n\n\n\n\nBarcelos, S. S., Da Silva, T. E., et al. Prenatal diet on calf performance. Animals, 12: 2145.\nAssunção, A. S., Da Silva, T. E., et al. Variability in in situ degradation studies. Animals, 12: 1901.\nFadul-Pacheco, L., Da Silva, T. E., et al. Data bottlenecks in the dairy industry. Animals, 12: 721.\n\n\n\n\n\nWangen, S. R., Da Silva, T. E., et al. Data engineering for dairy operations. Livestock Science, 250: 104602.\nBaldin, M., Da Silva, T. E., et al. Integrated decision support systems (IDSS) for dairy farming. Animals, 11: 2025.\n\n\n\n\n\nOliveira, C., Da Silva, T. E., et al. Urea supplementation in rumen and post-rumen. British Journal of Nutrition.\nBayão, G. F. V., Da Silva, T. E., et al. Heart-of-palm byproduct for lactating cows. Journal of Applied Animal Research, 48: 1–6.\n\n\n\n\n\nCosta, G. P., Da Silva, T. E., et al. Nitrogen quantification by Kjeldahl method. Revista Agrária Acadêmica, 2: 151–159.\nCosta e Silva, L. F., Da Silva, T. E., et al. Net protein requirements for zebu cattle. Animal.\n\n\n\n\n\nRodrigues, A. N., Da Silva, T. E., et al. Sodium hydroxide in Kjeldahl method. Boletim de Indústria Animal, 75: 9–16.\nDa Silva, T. E., et al. Digestible NDF prediction for cattle. Revista Brasileira de Biometria, 36: 290–315.\nCamacho, L. F., Da Silva, T. E., et al. Buffer and urea addition in digestibility. Journal of Animal Science, 97: 922–931.\n\n\n\n\n\nDa Silva, T. E., et al. Comparison of in vitro methods for digestibility. Arq. Bras. Med. Vet. Zootec., 69: 1635–1644.\nOss, D. B., Da Silva, T. E., et al. Requirements of Holstein × Gyr bulls. Journal of Dairy Science, 100: 2603–2613.\n\n\n\n\n\nDa Silva, T. E., et al. Kjeldahl digestion procedures for nitrogen. Acta Scientiarum. Animal Sciences, 38: 45–51.\nAndrade, F. L., Da Silva, T. E., et al. Corn vs. sugarcane silage in dairy cows. Tropical Animal Health and Production, 48: 747–753.\n\n\n\n\n\nAlbino, R. L., Da Silva, T. E., et al. Mammary gland development in dairy heifers. Journal of Dairy Research, 82: 113–120.\n\n\n\n\n\n\n\n\n\nDetmann, E., Rodrigues, J. P. P., Silva, T. E., Brito Neto, A. S., Franco, M. O. Methods for Feed Analysis. 3rd ed. Viçosa: INCT Ciência Animal. Vol. 1, 323p.\n\n\n\n\n\n\n\n\n\nCosta & Da Silva. 2025. Milk feeding programs’ effects on dairy calf growth: Increased allowances of milk in early life matters. Progressive Dairy.\n\n\n\n\n\nCabrera & Da Silva. 2023. DairyPrint model: Helping dairy farmers toward higher sustainability. Progressive Dairy."
+  },
+  {
+    "objectID": "insights.html",
+    "href": "insights.html",
+    "title": "Tadeu Eder da Silva, PhD",
+    "section": "",
+    "text": "In construction…"
+  },
+  {
+    "objectID": "presentation/dashboard.html",
+    "href": "presentation/dashboard.html",
+    "title": "My Dashboard",
+    "section": "",
+    "text": "Total Samples\n121\n\n\n\nAvg. NDF (%)\n61.3\n\n\n\nBest Preprocessing\nSNV + 1st Derivative"
+  },
+  {
+    "objectID": "presentation/dashboard.html#quick-dashboard-example",
+    "href": "presentation/dashboard.html#quick-dashboard-example",
+    "title": "My Dashboard",
+    "section": "",
+    "text": "Total Samples\n121\n\n\n\nAvg. NDF (%)\n61.3\n\n\n\nBest Preprocessing\nSNV + 1st Derivative"
+  }
+]

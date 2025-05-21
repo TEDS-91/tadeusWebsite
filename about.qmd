@@ -1,5 +1,5 @@
 ---
-title: "About"
+title: "Tadeu Eder da Silva, PhD."
 image: profile.jpeg
 about:
   template: jolla
@@ -15,4 +15,15 @@ about:
       href: https://costalab.weebly.com/
 ---
 
-About this blog
+I'm a lifelong learner passionate about science—especially animal science—technology, and the power of data. I enjoy working with AI, programming, software development, modeling, and decision support systems to solve real-world problems in livestock production. I'm particularly enthusiastic about creating meaningful data visualizations and applying data-driven approaches to support decision-making in dairy and beef systems.
+
+---
+
+<div style="color: #666; font-size: 80%;">
+
+**Keywords:** animal science, precision livestock farming, statistical modeling, dataViz, machine learning and AI, R/Python programming, dairy and beef production, decision support tools, and data-driven decision-making
+
+<div>
+
+
+

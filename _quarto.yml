@@ -1,22 +1,26 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Tadeu Eder da Silva, PhD"
   navbar:
     left:
-      - href: index.qmd
-        text: Home
+      - href: about.qmd
+        text: About
       - href: projects.qmd
         text: Projects
       - href: publications.qmd
         text: Publications
-      - href: about.qmd
-        text: About
-      - text: Posts
-        menu:
-          - posts/post1.qmd
-          - posts/post2.qmd
+      - href: videos.qmd
+        text: Videos
+    right:
+      - icon: mortarboard
+        href: https://scholar.google.com/citations?user=RsZ9F8gAAAAJ&hl=en
+      - icon: linkedin
+        href: https://linkedin.com/in/tadeu-eder-da-silva-78b679181/
+      - icon: github
+        href: https://github.com/TEDS-91
 
 format:
   html:

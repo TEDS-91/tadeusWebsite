@@ -1,0 +1,13 @@
+### 🎤 Dairy Innovation Hub Symposium 2023
+
+Presentation given by **Dr. Tadeu Eder da Silva** and **Dr. Prof. Victor Cabrera** at the **Dairy Innovation Hub Symposium 2023**.  
+In this session, we introduced and demonstrated the **DairyPrint model**, a decision-support model designed to evaluate dairy farm sustainability by integrating biological processes and simulating management strategies.
+
+<iframe width="100%" height="400" 
+  src="https://www.youtube.com/embed/clRn6xX78H4?start=1245" 
+  title="Dairy Innovation Hub Symposium 2023 - Presentation by Dr. Silva and Dr. Cabrera" 
+  frameborder="0" 
+  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+  allowfullscreen>
+</iframe>
+

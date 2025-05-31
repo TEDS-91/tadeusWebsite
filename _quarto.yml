@@ -5,13 +5,13 @@ website:
   title: "Tadeu Eder da Silva, PhD"
   navbar:
     left:
-      - href: about.qmd
+      - href: tabs/about.qmd
         text: About
-      - href: projects.qmd
+      - href: tabs/projects.qmd
         text: Projects
-      - href: publications.qmd
+      - href: tabs/publications.qmd
         text: Publications
-      - href: videos.qmd
+      - href: tabs/videos.qmd
         text: Videos
     right:
       - icon: mortarboard

@@ -1,6 +1,6 @@
 ---
 title: "Tadeu Eder da Silva, PhD."
-image: profile.jpeg
+image: images/profile.jpeg
 about:
   template: jolla
   links:

@@ -96,11 +96,19 @@ format:
 
 ---
 
-### 📘 Books
+### 📘 Books and Book Chapters
 
 #### 2025
 
 - Detmann, E., Rodrigues, J. P. P., **Silva, T. E.**, Brito Neto, A. S., Franco, M. O. *Methods for Feed Analysis*. 3rd ed. Viçosa: INCT Ciência Animal. Vol. 1, 323p.
+
+#### 2023
+
+- Costa, J., Pereira, J. M. V., **Silva, T. E**. *Considerações sobre manejo individual ou coletivo de bezerras leiteiras*. In: IX Simpósio Internacional de Bovinocultura Leiteira – SIMLEITE. Viçosa: Suprema, 2023. p. 612. Available: 🔗 [Link to book](https://simleite.com.br/arquivosAnais/arquivo41)
+
+#### 2011
+
+- Marcondes, M. I., Gionbelli, M. P., Andrade, F. L., Vergara, R. A. V., **Silva, T. E.**, Burgos, E. M. G. *Utilização da silagem de cana-de-açúcar para vacas em lactação*. In: III Simpósio Nacional de Bovinocultura Leiteira – SIMLEITE. Viçosa: Universidade Federal de Viçosa. Available: 🔗 [Link to book](https://simleite.com.br/arquivosAnais/arquivo41)
 
 ---
 
@@ -108,11 +116,11 @@ format:
 
 #### 2025
 
-- Costa & **Da Silva**. 2025. *Milk feeding programs' effects on dairy calf growth: Increased allowances of milk in early life matters*. Progressive Dairy.
+- Costa & **Da Silva**. 2025. *Milk feeding programs' effects on dairy calf growth: Increased allowances of milk in early life matters*. Progressive Dairy. Available: 🔗 [Link to article](https://www.agproud.com/articles/60888-milk-feeding-programs-effects-on-dairy-calf-growth-increased-allowances-of-milk-in-early-life-matters?v=preview)
 
 #### 2023
 
-- **Da Silva** & Cabrera. 2023. *DairyPrint model: Helping dairy farmers toward higher sustainability*. Progressive Dairy.
+- **Da Silva** & Cabrera. 2023. *DairyPrint model: Helping dairy farmers toward higher sustainability*. Progressive Dairy. Available: 🔗 [Link to article](https://www.agproud.com/articles/57103-dairyprint-model-helping-dairy-farmers-toward-higher-sustainability)
 
 #### 2022
-- Cabrera & **Da Silva**. 2023. *We can link the environment and economics*. Hoards Dairyman.
+- Cabrera & **Da Silva**. 2023. *We can link the environment and economics*. Hoards Dairyman.  Available: 🔗 [Link to article](https://hoards.com/article-31920-we-can-link-the-environment-and-economics.html)

@@ -5,7 +5,7 @@ website:
   title: "Tadeu Eder da Silva, PhD"
   navbar:
     left:
-      - href: tabs/about.qmd
+      - href: about.qmd
         text: About
       - href: tabs/projects.qmd
         text: Projects
@@ -23,6 +23,7 @@ website:
 
 format:
   html:
+    cache-bust: true
     theme: cosmo
     css: styles.css
 

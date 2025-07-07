@@ -92,15 +92,15 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./projects.html"> 
+    <a class="nav-link" href="./tabs/projects.html"> 
 <span class="menu-text">Projects</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./publications.html"> 
+    <a class="nav-link" href="./tabs/publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./videos.html"> 
+    <a class="nav-link" href="./tabs/videos.html"> 
 <span class="menu-text">Videos</span></a>
   </li>  
 </ul>
@@ -134,7 +134,7 @@ ul.task-list li input[type="checkbox"] {
     
 <!-- main -->
 <div class="quarto-about-jolla">
-  <img src="profile.jpeg" class="about-image
+  <img src="tabs/images/profile.jpeg" class="about-image
   round " style="height: 15em; width: 15em;">
  <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
@@ -147,11 +147,9 @@ ul.task-list li input[type="checkbox"] {
 <hr>
 <div style="color: #666; font-size: 80%;">
 <p><strong>Keywords:</strong> animal science, precision livestock farming, statistical modeling, dataViz, machine learning and AI, R/Python programming, dairy and beef production, decision support tools, and data-driven decision-making</p>
-<div>
+</div>
 
 
-</div>
-</div>
 </main> 
   <hr class="about-sep">
    <div class="about-links">
@@ -255,7 +253,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   }
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/TEDS-91\.github\.io\/tadeusWebsite\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

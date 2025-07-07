@@ -1,6 +1,7 @@
 ---
 title: "Tadeu Eder da Silva, PhD."
-image: images/profile.jpeg
+format: html
+image: tabs/images/profile.jpeg
 about:
   template: jolla
   links:
@@ -23,7 +24,7 @@ I'm a lifelong learner passionate about science—especially animal science—te
 
 **Keywords:** animal science, precision livestock farming, statistical modeling, dataViz, machine learning and AI, R/Python programming, dairy and beef production, decision support tools, and data-driven decision-making
 
-<div>
+</div>
 
 
 

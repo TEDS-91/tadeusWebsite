@@ -36,11 +36,11 @@ To support calf nutrition planning by enabling producers, consultants, and resea
 
 **Outcomes:**  
 - ✅ An interactive tool to design milk plans for preweaned calves  
-- ✅ Submitted manuscript to the *Journal of Dairy Science* describing methodology, structure, and applications  
+- ✅ Submitted manuscript to the *Journal of Dairy Science Communication * describing methodology, structure, and applications  
 - ✅ Complementary resources planned for training and on-farm application
 
 🔗 [Try CalfSim](https://tadeuedersilva.shinyapps.io/calfsim/)
-📄 Manuscript submitted to *Journal of Dairy Science* (under review)
+📄 Manuscript submitted to *Journal of Dairy Science Communication* (see publications)
 
 ---
 

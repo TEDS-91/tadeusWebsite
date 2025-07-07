@@ -1,17 +1,24 @@
 [
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Tadeu Eder da Silva, PhD.",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "I’m a lifelong learner passionate about science—especially animal science—technology, and the power of data. I enjoy working with AI, programming, software development, modeling, and decision support systems to solve real-world problems in livestock production. I’m particularly enthusiastic about creating meaningful data visualizations and applying data-driven approaches to support decision-making in dairy and beef systems.\n\n\nKeywords: animal science, precision livestock farming, statistical modeling, dataViz, machine learning and AI, R/Python programming, dairy and beef production, decision support tools, and data-driven decision-making"
   },
   {
-    "objectID": "tabs/insights.html",
-    "href": "tabs/insights.html",
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "tabs/videos.html",
+    "href": "tabs/videos.html",
     "title": "Tadeu Eder da Silva, PhD",
     "section": "",
-    "text": "In construction…"
+    "text": "Dairy Innovation Hub Symposium 2023\nPresentation given by Dr. Tadeu Eder da Silva and Dr. Prof. Victor Cabrera at the Dairy Innovation Hub Symposium 2023.\nIn this session, we introduced and demonstrated the DairyPrint model, a decision-support model designed to evaluate dairy farm sustainability by integrating biological processes and simulating management strategies."
   },
   {
     "objectID": "tabs/publications.html",
@@ -49,24 +56,17 @@
     "text": "🚧 Ongoing Projects\n\n\nPortable NIR Calibration: Urochloa spp. Forage Quality Prediction\nDescription:\nThis project investigates how different preprocessing methods influence the prediction of dry matter (DM) and neutral detergent fiber (NDF) in Urochloa spp. forages using a handheld near infrared (NIR) spectrophotometer. Developed in partnership between the Universidade federal Rural do Rio de Janeiro (UFRRJ) and the University of Vermont, the project aims to improve forage analysis in tropical grazing systems through portable, field-ready technologies.\nObjective:\nTo enhance the accuracy and usability of portable NIR devices in predicting forage chemical composition under varying sample conditions—whether fresh, dried, or processed—by identifying optimal preprocessing strategies.\nOutcomes:\n- ✅ Determination of the most appropriate preprocessing approaches depending on forage sample type (fresh, dried, milled)\n- ✅ Generation of calibration curves for use in future on-farm applications\n\n\n\nCotricalc System: Dairy Cost Estimation System\nDescription:\nCotricalc is a modular decision-support system developed in collaboration with Cotrijal, one of the largest agricultural cooperatives in Brazil. Designed to meet the specific needs of its dairy producers, the system focuses on accurately calculating milk production costs at the farm level, offering a customizable, transparent, and practical approach to financial management.\nObjective:\nTo support Cotrijal’s technical team and member farmers in tracking costs, margins, and resource allocation by providing a user-friendly platform built with R Shiny and integrated with Google Sheets for dynamic data entry and reporting.\nOutcomes:\n- ✅ A fully functional and customizable milk production cost calculator\n- ✅ Built-in modules for different cost categories (e.g., feed, labor, reproduction, health, etc.)\n- ✅ Used as a technical and financial planning tool by Cotrijal technicians and dairy producers\n- ✅ Designed for scalability and future integration with benchmarking tools and dashboards\n🔗 Internal deployment under Cotrijal’s technical extension program (in development)\n\n\n\nBehavioral Monitoring & Anomaly Detection System (Name TBD)\nDescription:\nA predictive monitoring system being developed in collaboration with Cotrijal Cooperative and CowMed, a Brazilian company specializing in dairy cow behavior monitoring through sensor-equipped collars. The system leverages high-frequency behavioral data—including rumination, feeding, and activity patterns—to detect anomalies and provide actionable insights for farm management.\nObjective:\nTo support technicians and producers in identifying early signs of health or management issues, and to promote timely interventions that improve animal welfare and farm productivity. The system is intended to be integrated into the daily technical routines used by Cotrijal’s advisory teams.\nOutcomes:\n- ✅ Predictive modeling using real-time data from CowMed collars\n- ✅ Detection of behavioral anomalies linked to health and performance deviations\n- ✅ Development of dashboards and alert systems to support day-to-day decisions\n- ✅ Customization for Cotrijal’s operational structure and its member farms\n🔗 Internal development in partnership with Cotrijal and CowMed (underway)\n\n\nThis page is constantly updated with recent and ongoing work. If you’d like to collaborate, feel free to reach out."
   },
   {
-    "objectID": "tabs/about.html",
-    "href": "tabs/about.html",
-    "title": "Tadeu Eder da Silva, PhD.",
-    "section": "",
-    "text": "I’m a lifelong learner passionate about science—especially animal science—technology, and the power of data. I enjoy working with AI, programming, software development, modeling, and decision support systems to solve real-world problems in livestock production. I’m particularly enthusiastic about creating meaningful data visualizations and applying data-driven approaches to support decision-making in dairy and beef systems.\n\n\nKeywords: animal science, precision livestock farming, statistical modeling, dataViz, machine learning and AI, R/Python programming, dairy and beef production, decision support tools, and data-driven decision-making"
-  },
-  {
-    "objectID": "tabs/videos.html",
-    "href": "tabs/videos.html",
+    "objectID": "tabs/insights.html",
+    "href": "tabs/insights.html",
     "title": "Tadeu Eder da Silva, PhD",
     "section": "",
-    "text": "Dairy Innovation Hub Symposium 2023\nPresentation given by Dr. Tadeu Eder da Silva and Dr. Prof. Victor Cabrera at the Dairy Innovation Hub Symposium 2023.\nIn this session, we introduced and demonstrated the DairyPrint model, a decision-support model designed to evaluate dairy farm sustainability by integrating biological processes and simulating management strategies."
+    "text": "In construction…"
   },
   {
-    "objectID": "posts/welcome/index.html",
-    "href": "posts/welcome/index.html",
-    "title": "Welcome To My Blog",
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Post With Code",
     "section": "",
-    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+    "text": "This is a post with executable code."
   }
 ]

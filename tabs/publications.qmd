@@ -1,5 +1,5 @@
 ---
-title: "Publications"
+title: " "
 format:
   html:
     toc: true
@@ -127,3 +127,57 @@ format:
 
 #### 2022
 - Cabrera & **Da Silva**. 2023. *We can link the environment and economics*. Hoards Dairyman. Available: 🔗 [Link to article](https://hoards.com/article-31920-we-can-link-the-environment-and-economics.html)
+
+---
+
+### 📑 Citations
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE, fig.width=8, fig.height=6}
+
+library(scholar)
+library(plotly)
+
+# Your Google Scholar ID
+scholar_id <- "RsZ9F8gAAAAJ"
+
+# Get citations per year
+cits <- get_citation_history(scholar_id)
+
+# Total citations
+total_cites <- sum(cits$cites)
+
+# UVM green
+uvm_green <- "#00563F"
+
+# Create interactive plot
+fig <- plot_ly(
+  data = cits,
+  x = ~year,
+  y = ~cites,
+  type = 'scatter',
+  mode = 'lines+markers+text',
+  text = ~cites,                    # labels = citation values
+  textposition = "top center",      # position of labels
+  line = list(color = uvm_green, width = 3),
+  marker = list(size = 8, color = uvm_green)
+) %>%
+  layout(
+    title = "Google Scholar Citations Over Time",
+    xaxis = list(title = "Year"),
+    yaxis = list(title = "Citations", range = c(0, max(cits$cites) + 20)),
+    annotations = list(
+      list(
+        x = min(cits$year),
+        y = max(cits$cites) + 15,
+        text = paste("Total citations:", total_cites),
+        showarrow = FALSE,
+        xanchor = "left",
+        font = list(size = 18, color = uvm_green)
+      )
+    )
+  ) %>%
+  config(displayModeBar = FALSE)  # hide toolbar at top-right
+
+fig
+
+```

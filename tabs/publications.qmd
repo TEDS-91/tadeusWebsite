@@ -12,6 +12,9 @@ format:
 
 #### 2025
 
+- Silva, L. H. R., Silva, A. L., Marcondes, M. I., Bittencourt, C. S., Rodrigues, J. V. C., Amorim, W. P. F., Lima Netto, E. P., **Da Silva, T. E.**, Costa, J. H. C., Rotta, P. P. 2025. A comparative analysis of dairy production systems: Milk production tiers and their impact on dairy calf and heifer cost of production in Brazil. Journal of Dairy Science (In Press).
+🔗 Link to article: [Link to article](https://www.journalofdairyscience.org/article/S0022-0302(25)00778-7/fulltext)
+
 - Pt: Detmann, E., & **Da Silva, T. E.** (2025). Quais evidências estamos procurando ao usar o valor p? Revista Agrária Acadêmica, 8(4). 🔗 [Link to article](https://www.sumarios.org/artigo/quais-evid%C3%AAncias-estamos-procurando-ao-usar-o-valor-p). En: Detmann, E., & **Da Silva, T. E.** (2025). What evidence are we looking for when using the p-value? Agrarian Academic Journal, 8(4).
 
 - **Da Silva, T. E.**, & Costa, J. H. C. (2025). CalfSim Tool: A free and user-friendly decision support tool for designing and simulating optimized feeding plans for dairy calves: A prediction assessment study. *Journal of Dairy Science Communications*, 6:654-659.   🔗 [Link to article](https://doi.org/10.3168/jdsc.2025-0777)
@@ -154,8 +157,8 @@ fig <- plot_ly(
   data = cits,
   x = ~year,
   y = ~cites,
-  type = 'scatter',
-  mode = 'lines+markers+text',
+  type = 'bar',
+  mode = 'bar+text',
   text = ~cites,                    # labels = citation values
   textposition = "top center",      # position of labels
   line = list(color = uvm_green, width = 3),

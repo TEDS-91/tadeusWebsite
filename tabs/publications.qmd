@@ -10,7 +10,17 @@ format:
 
 ### 📘 Scientific Papers
 
+#### 2026
+
+- da Silva, C. S., **da Silva, T. E.**, Sguizatto, A. L. L., Machado, A. F., Silva, A. S., Costa, J. H. C., Campos, M. M., Paciullo, D. S. C., Gomide, C. A. M., & Monrez, M. J. F. (2026). Predicting individual dry matter intake in Holstein × Gyr cows using behavior-monitoring sensor, phenotypic, and weather data with supervised machine learning. *Animal Nutrition and Farm Systems*, Short Communication (Articles in Press).  
+🔗 *Open access* – [Link to article](https://www.jdscommun.org/article/S2666-9102(26)00003-7/fulltext) (January 16, 2026)
+
 #### 2025
+
+- Lovatti, J. V. R., **da Silva, T. E.**, Keunen, A. J., Steele, M. A., Renaud, D. L., & Costa, J. H. C. (2025). Effects of fat level and coconut-to-palm fat ratio in milk replacer on solid feed intake and performance of pre- and postweaning dairy calves. *Journal of Dairy Science*, Online ahead of print.  
+🔗 [Link to article](https://doi.org/10.3168/jds.2025-27401)
+
+- **Silva, T. E.**, & Detmann, E. (2025). Is the fasting period a mandatory procedure for estimating body weight gain in beef cattle? *Animal Production Science*, AN25310. 🔗 [Link to article](https://doi.org/10.1071/AN25310)
 
 - Silva, L. H. R., Silva, A. L., Marcondes, M. I., Bittencourt, C. S., Rodrigues, J. V. C., Amorim, W. P. F., Lima Netto, E. P., **Da Silva, T. E.**, Costa, J. H. C., Rotta, P. P. 2025. A comparative analysis of dairy production systems: Milk production tiers and their impact on dairy calf and heifer cost of production in Brazil. Journal of Dairy Science (In Press).
 🔗 Link to article: [Link to article](https://www.journalofdairyscience.org/article/S0022-0302(25)00778-7/fulltext)
@@ -149,8 +159,8 @@ cits <- get_citation_history(scholar_id)
 # Total citations
 total_cites <- sum(cits$cites)
 
-# UVM green
-uvm_green <- "#00563F"
+# green
+tail_green <- "#00563F"
 
 # Create interactive plot
 fig <- plot_ly(
@@ -161,11 +171,11 @@ fig <- plot_ly(
   mode = 'bar+text',
   text = ~cites,                    # labels = citation values
   textposition = "top center",      # position of labels
-  line = list(color = uvm_green, width = 3),
-  marker = list(size = 8, color = uvm_green)
-) %>%
+  line = list(color = tail_green, width = 3),
+  marker = list(size = 8, color = tail_green)
+) |> 
   layout(
-    title = "Google Scholar Citations Over Time",
+    title = "Google Scholar Citations",
     xaxis = list(title = "Year"),
     yaxis = list(title = "Citations", range = c(0, max(cits$cites) + 20)),
     annotations = list(
@@ -175,10 +185,10 @@ fig <- plot_ly(
         text = paste("Total citations:", total_cites),
         showarrow = FALSE,
         xanchor = "left",
-        font = list(size = 18, color = uvm_green)
+        font = list(size = 18, color = tail_green)
       )
     )
-  ) %>%
+  ) |> 
   config(displayModeBar = FALSE)  # hide toolbar at top-right
 
 fig

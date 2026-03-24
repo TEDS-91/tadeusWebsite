@@ -12,7 +12,10 @@ format:
 
 #### 2026
 
-- da Silva, C. S., **da Silva, T. E.**, Sguizatto, A. L. L., Machado, A. F., Silva, A. S., Costa, J. H. C., Campos, M. M., Paciullo, D. S. C., Gomide, C. A. M., & Monrez, M. J. F. (2026). Predicting individual dry matter intake in Holstein × Gyr cows using behavior-monitoring sensor, phenotypic, and weather data with supervised machine learning. *Animal Nutrition and Farm Systems*, Short Communication (Articles in Press).  
+- Oliveira, K. R., **da Silva, T. E.**, Costa, J. H. C., Ferreira, T. M., Silva, A. L., Consentini, C. E. C., Sartori, R., & Rotta, P. P. (2026). Retained placenta in dairy cows: An evaluation of risk factors and reproductive performance. *Theriogenology*, 259:117902.  
+🔗 [Link to article](https://doi.org/10.1016/j.theriogenology.2026.117902)
+
+- da Silva, C. S., **da Silva, T. E.**, Sguizatto, A. L. L., Machado, A. F., Silva, A. S., Costa, J. H. C., Campos, M. M., Paciullo, D. S. C., Gomide, C. A. M., & Monrez, M. J. F. (2026). Predicting individual dry matter intake in Holstein × Gyr cows using behavior-monitoring sensor, phenotypic, and weather data with supervised machine learning. *JDSComm  - Animal Nutrition and Farm Systems*, Short Communication (Articles in Press).  
 🔗 *Open access* – [Link to article](https://www.jdscommun.org/article/S2666-9102(26)00003-7/fulltext) (January 16, 2026)
 
 #### 2025
